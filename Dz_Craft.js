@@ -289,4 +289,4 @@ if(!message.guild.member(client.user).hasPermission("MUTE_MEMBERS")) return mess
  
 });
 
-client.login();// لا تغير فيها شيء
+client.login(process.env.BOT_TOKEN);
