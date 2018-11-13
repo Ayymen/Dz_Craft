@@ -289,4 +289,4 @@ if(!message.guild.member(client.user).hasPermission("MUTE_MEMBERS")) return mess
  
 });
 
-client.login();// لا تغير فيها شيء
+client.login('NTExNTg3MzI0ODAzNjc4MjM5.DstEag.g9N_JcVqDMAUVixOqA42WM1ChZ0');// لا تغير فيها شيء
